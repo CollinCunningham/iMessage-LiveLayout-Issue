@@ -1,5 +1,5 @@
 # iMessage-Transcript-Bug-Demo
-Barebones iMessage Extension to demonstrate bug in transcript presentation
+Barebones iMessage Extension to demonstrate issue using MSMessageLiveLayout within transcript presentation
 1. Tap **Send Message** button -> Message appears in transcript
 2. Tap message's **Change Background** button -> Message's background color changes
 3. Long press anywhere in Message's view -> Tapback options appear
