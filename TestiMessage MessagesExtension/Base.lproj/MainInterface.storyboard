@@ -16,9 +16,9 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Gd3-rh-lwI">
-                                <rect key="frame" x="85" y="248.5" width="150" height="31"/>
+                                <rect key="frame" x="100.5" y="248.5" width="119" height="31"/>
                                 <state key="normal" title="Button"/>
-                                <buttonConfiguration key="configuration" style="filled" title="Send Test Message"/>
+                                <buttonConfiguration key="configuration" style="filled" title="Send Message"/>
                                 <connections>
                                     <action selector="testButtonTapped:" destination="ObA-dk-sSI" eventType="touchUpInside" id="VWm-zD-9J4"/>
                                 </connections>
